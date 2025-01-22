@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Udayyv-ux
 - 👀 I’m interested in Machine Learning and Full Stack Development
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Machine leaning and Full Stack development
+- 💞️ I’m looking to collaborate on Machine learning and Full Stack development
 - 📫 Contact me through Linkedin
 
 <!---
